@@ -38,11 +38,11 @@ Throughout this document we will study the feasibility of implementing a Digital
 
 ## 📷 Figure 1.1 – Overview of Digital TV Receiver
 
-![Figure 1.1](./assets/image_1.png)
+![Figure 1.1](https://github.com/vahejab/DTV-Receiver/blob/main/image_1.png)
 
 ## 📷 Figure 1.2 – Global Coverage of Digital Terrestrial TV Standards
 
-![Figure 1.2](./assets/image_2.png)
+![Figure 1.2](https://github.com/vahejab/DTV-Receiver/blob/main/image_2.png)
 
 ---
 
@@ -72,7 +72,7 @@ D. Digital spectrum is far more efficient in its usage.
 
 ## 📷 Figure 1.3 – ATSC and NTSC Channel Spectrum Comparison
 
-![Figure 1.3](./assets/image_3.png)
+![Figure 1.3](https://github.com/vahejab/DTV-Receiver/blob/main/image_3.png)
 
 ---
 
@@ -90,15 +90,15 @@ True SDR is difficult to realize due to current technological limits.
 
 ## 📷 Figure 1.4 – True Software Defined Radio Block Diagram
 
-![Figure 1.4](./assets/image_4.png)
+![Figure 1.4](https://github.com/vahejab/DTV-Receiver/blob/main/image_4.png)
 
 ## 📷 Figure 1.5 – SDR Infrastructure
 
-![Figure 1.5](./assets/image_5.png)
+![Figure 1.5](https://github.com/vahejab/DTV-Receiver/blob/main/image_5.png)
 
 ## 📷 Figure 1.6 – Simplified Front End Receiver
 
-![Figure 1.6](./assets/image_6.png)
+![Figure 1.6](https://github.com/vahejab/DTV-Receiver/blob/main/image_6.png)
 
 ---
 
@@ -124,7 +124,7 @@ This results in a required sampling rate of approximately 1.6–2.0 GSPS.
 
 ## 📷 Figure 1.7 – Digital Down Converter Block
 
-![Figure 1.7](./assets/image_7.png)
+![Figure 1.7](https://github.com/vahejab/DTV-Receiver/blob/main/image_7.png)
 
 ---
 
@@ -134,7 +134,7 @@ Each standard has its own demodulation scheme.
 
 ## 📷 Figure 1.8 – Region Specific Demodulator
 
-![Figure 1.8](./assets/image_8.png)
+![Figure 1.8](https://github.com/vahejab/DTV-Receiver/blob/main/image_8.png)
 
 ---
 
@@ -142,7 +142,7 @@ Each standard has its own demodulation scheme.
 
 ## 📷 Figure 1.9 – Error Correction Blocks
 
-![Figure 1.9](./assets/image_9.png)
+![Figure 1.9](https://github.com/vahejab/DTV-Receiver/blob/main/image_9.png)
 
 ---
 
@@ -158,7 +158,7 @@ Amplitude modulation varies the amplitude of a carrier signal.
 
 ## 📷 Figure 2.1 – 8VSB Signal
 
-![Figure 2.1](./assets/image_10.png)
+![Figure 2.1](https://github.com/vahejab/DTV-Receiver/blob/main/image_10.png)
 
 ---
 
@@ -166,7 +166,7 @@ Amplitude modulation varies the amplitude of a carrier signal.
 
 ## 📷 Figure 2.2 – FDM
 
-![Figure 2.2](./assets/image_11.png)
+![Figure 2.2](https://github.com/vahejab/DTV-Receiver/blob/main/image_11.png)
 
 ---
 
@@ -174,7 +174,7 @@ Amplitude modulation varies the amplitude of a carrier signal.
 
 ## 📷 Figure 2.3 – OFDM
 
-![Figure 2.3](./assets/image_12.png)
+![Figure 2.3](https://github.com/vahejab/DTV-Receiver/blob/main/image_12.png)
 
 ---
 
@@ -182,7 +182,7 @@ Amplitude modulation varies the amplitude of a carrier signal.
 
 ## 📷 Figure 2.4 – QAM Constellation
 
-![Figure 2.4](./assets/image_13.png)
+![Figure 2.4](https://github.com/vahejab/DTV-Receiver/blob/main/image_13.png)
 
 ---
 
@@ -190,29 +190,29 @@ Amplitude modulation varies the amplitude of a carrier signal.
 
 ## 3.1 ATSC
 
-![Figure 3.1](./assets/image_14.png)  
-![Figure 3.2](./assets/image_15.png)  
-![Figure 3.3](./assets/image_16.png)  
-![Figure 3.4](./assets/image_17.png)  
-![Figure 3.5](./assets/image_18.png)
+![Figure 3.1](https://github.com/vahejab/DTV-Receiver/blob/main/image_14.png)  
+![Figure 3.2](https://github.com/vahejab/DTV-Receiver/blob/main/image_15.png)  
+![Figure 3.3](https://github.com/vahejab/DTV-Receiver/blob/main/image_16.png)  
+![Figure 3.4](https://github.com/vahejab/DTV-Receiver/blob/main/image_17.png)  
+![Figure 3.5](https://github.com/vahejab/DTV-Receiver/blob/main/image_18.png)
 
 ---
 
 ## 3.2 DVB-T
 
-![Figure 3.6](./assets/image_19.png)
+![Figure 3.6](https://github.com/vahejab/DTV-Receiver/blob/main/image_19.png)
 
 ---
 
 ## 3.3 ISDB-T
 
-![Figure 3.8](./assets/image_20.png)
+![Figure 3.8](https://github.com/vahejab/DTV-Receiver/blob/main/image_20.png)
 
 ---
 
 ## 3.4 DTMB
 
-![Figure 3.9](./assets/image_21.png)
+![Figure 3.9](https://github.com/vahejab/DTV-Receiver/blob/main/image_21.png)
 
 ---
 
@@ -228,8 +228,8 @@ All standards operate in similar frequency bands but differ in:
 
 ## 📷 Demodulation Figures
 
-![Figure 4.1](./assets/image_22.png)  
-![Figure 4.2](./assets/image_23.png)
+![Figure 4.1](https://github.com/vahejab/DTV-Receiver/blob/main/image_22.png)  
+![Figure 4.2](https://github.com/vahejab/DTV-Receiver/blob/main/image_23.png)
 
 ---
 
