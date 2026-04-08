@@ -256,4 +256,81 @@ This hybrid system ensures performance and adaptability.
 
 # 📚 References
 
-(From original report)
+1. **"ATSC transmission."** Broadcast Engineering, 20 June 2005.  
+   Available: http://broadcastengineering.com/infrastructure/Atsc-transmission-digital-20050620/
+
+2. **"Digital Multimedia Broadcasting."** Wikipedia, 2008.
+
+3. **"Figure 12: Bandwidth Allocations for an FDM Communications System."**  
+   National Instruments, 2 January 2007.  
+   Available: http://zone.ni.com/devzone/cda/tut/p/id/3876
+
+4. **"Modulation."** Wikipedia.  
+   Available: http://en.wikipedia.org/wiki/Modulation
+
+5. **"Pulse-Shape Filtering in Communications Systems."**  
+   National Instruments.  
+   Available: http://zone.ni.com/devzone/cda/tut/p/id/3876
+
+6. **"What Exactly is ATSC?"** HDTV Primer.  
+   Available: http://www.hdtvprimer.com/ISSUES/what_is_ATSC.html
+
+7. **Andraka, Ray.**  
+   *"Modulation and Demodulation Techniques for FPGAs."*  
+   DesignCon 2000.  
+   Available: http://www.andraka.com/files/designcon00.pdf
+
+8. **Barnes, Kai.**  
+   *"Multiantenna SDR Architectures and its Simplification Methods."*  
+   Centre for Wireless Communications, 2005.  
+   Available: http://www.cwc.oulu.fi/home/coursedata/softwareradios_juntti/SDR_arch.pdf
+
+9. **Cugnini, Aldo.**  
+   *"World TV Standards."* Broadcast Engineering, October 2007.  
+   Available: http://broadcastengineering.com/hdtv/world_tv_standards/
+
+10. **Dick, Chris.**  
+    *"Design and Implementation of High-Performance FPGA Signal Processing Datapaths for Software Defined Radios."*  
+    Xilinx Inc.  
+    Available: http://www.xilinx.com/esp/mil_aero/collateral/ProductEngineering/design_implementaion.pdf
+
+11. **Francis, Michael.**  
+    *"Forward Error Correction in Digital Television Broadcast Systems."*  
+    Xilinx, April 2008.  
+    Available: http://www.xilinx.com/support/documentation/white_papers/wp270.pdf
+
+12. **Gray, Robert.**  
+    *"Costas Loop, Noise in AM, SSB/VSB. AM Radio and Superheterodyne Receivers."*  
+    Stanford University.  
+    Available: http://www.stanford.edu/class/ee179/summaries/lecture19.pdf
+
+13. **Jack, Keith.**  
+    *Video Demystified*, 4th Edition.  
+    Burlington: Newnes, 2004.
+
+14. **Ladebusch, Uwe.**  
+    *"Terrestrial DVB (DVB-T): A Broadcast Technology for Stationary Portable and Mobile Use."*  
+    Proceedings of the IEEE, Vol. 94, 2006.
+
+15. **Miller, William.**  
+    *"Chapter 9: DTV Test, Measurement and Monitoring."*  
+    *The Guide to Digital Television*, Third Edition, 2000.  
+    Available: http://www.thevideoguru.com/dtvbook/ch9.html
+
+16. **Oyamada, Kimiyuki.**  
+    *"ISDB-C - Cable Television Transmission for Digital Broadcasting in Japan."*  
+    Asia-Pacific Broadcasting Union, 2001.  
+    Available: http://www.nhk.or.jp/strl/publica/bt/en/pa0007.html
+
+17. **Sparano, David.**  
+    *"What Exactly is 8-VSB Anyway?"*  
+    Harris Corporation Broadcast Division, August 2002.  
+    Available: http://www.8vsb.com/WhatExactlyIs.htm
+
+18. **Tuğcu, Tuna.**  
+    *"Cognitive Radio."*  
+    Available: http://www.cmpe.boun.edu.tr/~tugcu/research.html#Cognitive_Radio
+
+19. **Yokohata, Kazunori.**  
+    *"ISDB-T Transmission Technology - Single Transmission for Fixed, Vehicular, and Handheld Receivers."*  
+    Available: http://ru.ictp.uz/summit2007/yokohata.pdf
