@@ -1,7 +1,7 @@
 # 📡 Design and Implementation of an International Digital Terrestrial TV Receiver using an FPGA
 
 Report
-[Document (docx format)](https://github.com/vahejab/DTV-Receiver/blob/main/ECE-699C-Final-Report-Final-Version.docx)
+[Report (docx format)](https://github.com/vahejab/DTV-Receiver/blob/main/ECE-699C-Final-Report-Final-Version.docx)
 
 
 **Author:** Vahe Robert Jabagchourian  
